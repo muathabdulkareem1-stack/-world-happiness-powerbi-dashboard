@@ -76,7 +76,7 @@ RETURN
 
 ## Opening it yourself
 
-Download `Happiness_Analysis_Report.pbix` from `/dashboard` and open it in Power BI Desktop. Year filter, country slicer, and factor selector are all interactive.
+Download `Happiness_Analysis_Report.pbix` and open it in Power BI Desktop. Year filter, country slicer, and factor selector are all interactive.
 
 ## Screenshots
 
