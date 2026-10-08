@@ -98,4 +98,4 @@ Download `Happiness_Analysis_Report.pbix` from `/dashboard` and open it in Power
 
 ---
 
-Built by Moath.
+Built by Muath.
