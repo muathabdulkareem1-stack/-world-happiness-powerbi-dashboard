@@ -80,7 +80,21 @@ Download `Happiness_Analysis_Report.pbix` from `/dashboard` and open it in Power
 
 ## Screenshots
 
-*(page screenshots go here — see `/screenshots`)*
+<img width="1398" height="766" alt="image" src="https://github.com/user-attachments/assets/a5116f92-1683-4a99-9ef1-a7e774880239" />
+
+
+<img width="1397" height="768" alt="image" src="https://github.com/user-attachments/assets/d5bb8721-9671-4078-8197-85f25afa172d" />
+
+<img width="1398" height="768" alt="image" src="https://github.com/user-attachments/assets/21c42fae-3e3a-4110-ad32-5494940c7461" />
+
+<img width="1400" height="765" alt="image" src="https://github.com/user-attachments/assets/98abb462-e026-4840-ade9-fc084e504727" />
+
+<img width="1397" height="766" alt="image" src="https://github.com/user-attachments/assets/b09b631b-d703-43e7-af1b-2740ddec519f" />
+
+
+
+
+
 
 ---
 
